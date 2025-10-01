@@ -18,7 +18,7 @@ A fun React-based timer challenge game. Try to stop the timer as close as possib
 
 ## Snapshot
 
-![Game Snapshot](https://raw.githubusercontent.com/uzairahmedkayani/almost-final-countdown-game/blob/main/src/game-snap.png)
+![Game Snapshot](https://raw.githubusercontent.com/uzairahmedkayani/almost-final-countdown-game/main/src/game-snap.png)
 
 ## Getting Started
 
